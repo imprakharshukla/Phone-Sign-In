@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "910258480963",
+    "firebase_url": "https://phonesignin-aa012.firebaseio.com",
+    "project_id": "phonesignin-aa012",
+    "storage_bucket": "phonesignin-aa012.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910258480963:android:a9b8d4b90a21cc94",
+        "android_client_info": {
+          "package_name": "studio.in.prakharshuka.phonesign_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910258480963-pp2rr136nl6frosdpnpj71pntc0b77j0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "studio.in.prakharshuka.phonesign_in",
+            "certificate_hash": "f462860ff0b5aa47c69fe8ce5b94f83d0071508b"
+          }
+        },
+        {
+          "client_id": "910258480963-n1iiad5m9930maufv0ldolahj7fdvfaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfGSvO98aDaQVYQhzXuLzVNqqsBnOOqMo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910258480963-n1iiad5m9930maufv0ldolahj7fdvfaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
